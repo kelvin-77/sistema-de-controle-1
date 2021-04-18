@@ -23,7 +23,7 @@
                 </div>
             </div>
         </section>
-        <section id="options">
+        <section id="options"> 
             <div class="container">
                 <div class="row">
                     <div class="col-1"></div>
