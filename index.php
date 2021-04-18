@@ -31,7 +31,7 @@
                         <a href="./cadastro.php"><button>Cadastrar Produto</button></a>
                         <br>
                         <a href="./pesquisa.php"><button>Pesquisar Produto</button></a>
-                    </div>
+                    </div> 
                     <div class="col-1"></div>
                 </div>
             </div>
