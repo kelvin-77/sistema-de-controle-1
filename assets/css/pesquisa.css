@@ -1,0 +1,9 @@
+body{
+    background-color: #293542;
+}
+
+section#titulo{
+    padding-top: 30px;
+    color: white;
+    margin-bottom: 40px;
+}

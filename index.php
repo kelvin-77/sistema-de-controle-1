@@ -31,12 +31,16 @@
                         <a href="./cadastro.php"><button>Cadastrar Produto</button></a>
                         <br>
                         <a href="./pesquisa.php"><button>Pesquisar Produto</button></a>
+                        <br>
+                        <a href=""><button>Atualizar Produto</button></a>
+                        <br>
+                        <a href=""><button>Deletar Produto</button></a>
                     </div> 
                     <div class="col-1"></div>
                 </div>
             </div>
-        
         </section>
+        
 
         
     </body>

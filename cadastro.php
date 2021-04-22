@@ -10,7 +10,7 @@
         <script src="bootstrap/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
         
         <!-- CSS -->
-        <link rel="stylesheet" href="assets/css/index.css">
+        <link rel="stylesheet" href="assets/css/cadastro.css">
 
     </head>
     <body>
@@ -23,7 +23,33 @@
                 </div>
             </div>
         </section>
-        
+        <section id="cadastro">
+            <div class="container">
+                <div class="row">
+                    <div class="col-2"></div>
+                    <div class="col-4">
+                        <form id="cadastro" name="Cadastro" method="post" action="">
+                            <input name="Produto" placeholder="Nome do Produto" type="text">
+                            <input name="Código" placeholder="Código" type="text">
+                            <input name="Quantidade" placeholder="Quantidade" type="text">
+                            <input name="Produto" placeholder="Data de Cadastro" type="text">
+
+                            <button type="submit">Cadastrar Produto</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="voltar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-2"></div>
+                    <div class="col-4">
+                        <a href="/index.php"><button >Voltar</button></a>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         
     </body>
